@@ -1,0 +1,6 @@
+{
+  "name": "SummarAI - AI Summarization & Learning",
+  "description": "Transform lengthy documents, articles, and study materials into clear summaries, revision notes, flashcards, and quizzes with AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

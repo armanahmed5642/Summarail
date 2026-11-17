@@ -1,0 +1,333 @@
+{
+  "users": [
+    {
+      "_id": "user_demo_1",
+      "name": "Alex Rivera",
+      "email": "demo@summarai.com",
+      "password_hash": "demo123",
+      "profile_image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=250&q=80",
+      "preferences": {
+        "theme": "light",
+        "default_summary_length": "medium",
+        "default_summary_style": "bullet_points"
+      },
+      "created_at": "2026-10-31T17:20:36.677Z"
+    }
+  ],
+  "summaries": [
+    {
+      "user_id": "user_demo_1",
+      "title": "The Impact of Transformer-Based AI on Knowledge Synthesis and Education",
+      "original_text": "Artificial intelligence and transformer neural networks have revolutionized natural language processing, document intelligence, and educational technology. Modern language models synthesize multi-page technical papers into concise executive briefs, extract key empirical metrics, and generate structured study notes and flashcards for students and researchers worldwide.",
+      "summary": "TL;DR: Transformer neural networks have fundamentally transformed the landscape of document intelligence and educational technology by enabling the automated synthesis of complex technical literature into accessible, structured formats. By leveraging advanced language modeling architectures, these systems move beyond basic text analysis to perform sophisticated cognitive tasks that once required significant manual labor from human domain experts. The current methodology involves deploying transformer architectures to process vast corpora of multi-page technical documentation. These models demonstrate high proficiency in distilling dense technical material into concise executive briefs, a capability that dramatically accelerates information retrieval and strategic decision-making in professional settings. Furthermore, these systems facilitate the extraction of critical empirical metrics, allowing researchers and analysts to identify foundational data points within lengthy reports instantly. The implications for educational technology are equally profound. Transformer models are now capable of generating granular study aids, including structured notes and interactive flashcards, which personalize the learning experience and streamline knowledge retention for global user bases. By automating the extraction and organization of information, these tools serve as force multipliers for productivity, enabling a shift toward more effective knowledge management. While these advancements signify a major leap in natural language processing (NLP) efficiency, they also establish a new standard for how students, researchers, and professionals engage with high-volume technical data. The transition from static document consumption to dynamic, model-assisted synthesis represents a pivotal evolution in how empirical information is processed, categorized, and applied across research and academic ecosystems.",
+      "summary_type": "pdf",
+      "summary_length": "detailed",
+      "summary_style": "executive",
+      "key_points": [
+        "Transformer neural networks have fundamentally redefined natural language processing and document intelligence capabilities.",
+        "Modern language models effectively convert multi-page technical literature into structured executive summaries.",
+        "Automated systems now facilitate the precision extraction of empirical metrics from complex documentation.",
+        "Educational technology is benefiting from AI-driven generation of personalized study aids, notes, and flashcards.",
+        "The evolution of these tools enhances productivity for global researchers, students, and professional analysts."
+      ],
+      "keywords": [
+        "Artificial Intelligence",
+        "Transformer Neural Networks",
+        "Natural Language Processing",
+        "Document Intelligence",
+        "Educational Technology",
+        "Knowledge Synthesis",
+        "Data Extraction"
+      ],
+      "original_word_count": 43,
+      "summary_word_count": 240,
+      "compression_ratio": 0,
+      "filename": "sample_doc_3zDOZY.txt",
+      "page_count": 1,
+      "_id": "sum_1794679019071_ib5tt",
+      "created_at": "2026-11-14T17:56:59.071Z"
+    },
+    {
+      "user_id": "user_demo_1",
+      "title": "Understanding Einstein's Theory of Special Relativity",
+      "original_text": "Albert Einstein's Theory of Special Relativity explains how space and time are linked for objects moving at a constant speed in a straight line. Published in 1905, this groundbreaking framework transformed modern physics by showing that measurements of time and distance are not absolute, but depend on the relative motion of the observer.\n\nThe Two Core Postulates\n\nEinstein built the entire theory on two simple yet radical rules:\n• The Principle of Relativity. The laws of physics are identical in all inertial frames of reference. Whether you are standing still on Earth or flying smoothly in a jet at 500 miles per hour, physical experiments will yield the exact same results.",
+      "summary": "In 1905, Albert Einstein changed how we understand the universe with his Theory of Special Relativity. He discovered that space and time are not fixed; they change depending on how you are moving. His work proves that no matter how fast you travel at a steady speed, the laws of nature remain the same for everyone.",
+      "summary_type": "text",
+      "summary_length": "short",
+      "summary_style": "simple",
+      "key_points": [
+        "Published in 1905, the theory redefined modern physics.",
+        "Space and time are linked rather than absolute.",
+        "Measurements depend on the relative motion of the observer.",
+        "Physical laws remain identical in all inertial reference frames.",
+        "Observers in motion experience physics exactly like those standing still."
+      ],
+      "keywords": [
+        "Albert Einstein",
+        "Special Relativity",
+        "Physics",
+        "Time",
+        "Space",
+        "Science History",
+        "Reference Frames"
+      ],
+      "original_word_count": 111,
+      "summary_word_count": 56,
+      "compression_ratio": 50,
+      "_id": "sum_1794678614104_j2dtm",
+      "created_at": "2026-11-14T17:50:14.104Z"
+    },
+    {
+      "user_id": "user_demo_1",
+      "title": "Understanding Einstein’s Theory of Special Relativity: Space, Time, and Motion",
+      "original_text": "Albert Einstein's Theory of Special Relativity explains how space and time are linked for objects moving at a constant speed in a straight line. Published in 1905, this groundbreaking framework transformed modern physics by showing that measurements of time and distance are not absolute, but depend on the relative motion of the observer.\n\nThe Two Core Postulates\n\nEinstein built the entire theory on two simple yet radical rules:\n• The Principle of Relativity. The laws of physics are identical in all inertial frames of reference. Whether you are standing still on Earth or flying smoothly in a jet at 500 miles per hour, physical experiments will yield the exact same results.",
+      "summary": "Published in 1905, Albert Einstein’s Theory of Special Relativity fundamentally altered the scientific understanding of the universe by redefining the nature of space and time. Rather than existing as absolute, independent entities, Einstein demonstrated that temporal and spatial measurements are inextricably linked to the relative velocity of the observer. Central to this theoretical framework is the rejection of a fixed, universal reference point. The theory establishes that for any object moving at a constant speed in a straight line, the fundamental laws of physics remain consistent across all inertial frames of reference. By asserting that physical experiments yield identical results regardless of whether an observer is stationary—such as standing on Earth—or moving at a constant velocity—like traveling in a jet at 500 miles per hour—Einstein provided a cohesive methodology for modern physics. The implications of this work are profound, as it challenges classical Newtonian mechanics by introducing the concept that the speed of light remains constant while time and distance are subject to dilation and contraction based on relativistic motion. This 1905 breakthrough serves as the cornerstone for subsequent developments in high-energy physics and cosmology, proving that our perception of the physical world is inherently dependent on the observer's state of motion.",
+      "summary_type": "text",
+      "summary_length": "detailed",
+      "summary_style": "bullet_points",
+      "key_points": [
+        "Special Relativity was formally introduced by Albert Einstein in 1905.",
+        "The theory posits that space and time are not absolute but relative to the observer's motion.",
+        "Physical laws behave identically in all inertial frames of reference, ensuring consistency for observers in motion.",
+        "Einstein’s framework serves as a critical departure from classical physics by establishing the relativity of temporal and spatial measurements.",
+        "Experiments performed while stationary on Earth produce the same results as those performed while moving at a constant speed, such as 500 miles per hour."
+      ],
+      "keywords": [
+        "Special Relativity",
+        "Albert Einstein",
+        "Modern Physics",
+        "Inertial Frames",
+        "Relative Motion",
+        "Spacetime",
+        "Scientific Methodology"
+      ],
+      "original_word_count": 111,
+      "summary_word_count": 202,
+      "compression_ratio": 0,
+      "_id": "sum_1794678566866_9q1cw",
+      "created_at": "2026-11-14T17:49:26.867Z"
+    },
+    {
+      "user_id": "user_demo_1",
+      "title": "Understanding Einstein’s Theory of Special Relativity: Space, Time, and Motion",
+      "original_text": "Albert Einstein's Theory of Special Relativity explains how space and time are linked for objects moving at a constant speed in a straight line. Published in 1905, this groundbreaking framework transformed modern physics by showing that measurements of time and distance are not absolute, but depend on the relative motion of the observer.\n\nThe Two Core Postulates\n\nEinstein built the entire theory on two simple yet radical rules:\n• The Principle of Relativity. The laws of physics are identical in all inertial frames of reference. Whether you are standing still on Earth or flying smoothly in a jet at 500 miles per hour, physical experiments will yield the exact same results.",
+      "summary": "Published in 1905, Albert Einstein’s Theory of Special Relativity fundamentally reshaped our understanding of the physical universe by establishing that space and time are inextricably linked for objects traveling at constant speeds in straight lines. Moving beyond classical Newtonian concepts, Einstein introduced a framework where measurements of time and distance are not universal constants but are instead relative to the motion of the observer. At the heart of this revolution are two foundational postulates: the Principle of Relativity, which asserts that physical laws remain consistent across all inertial frames of reference, and the premise that the speed of light remains constant regardless of the observer's movement. By demonstrating that an experiment performed while standing still on Earth will yield identical results to one conducted in a jet traveling at 500 miles per hour, Einstein effectively dismantled the notion of an absolute frame of reference, setting the stage for modern advancements in theoretical physics.",
+      "summary_type": "text",
+      "summary_length": "medium",
+      "summary_style": "bullet_points",
+      "key_points": [
+        "Special Relativity was introduced by Albert Einstein in 1905, revolutionizing modern physical science.",
+        "The theory establishes that space and time are interconnected for objects moving at constant velocities.",
+        "Measurements of time and distance are relative rather than absolute, depending entirely on the observer's motion.",
+        "The Principle of Relativity mandates that physical laws act identically within all inertial frames of reference.",
+        "Uniform motion, such as a jet flying at 500 miles per hour, produces identical experimental results to a stationary observer."
+      ],
+      "keywords": [
+        "Special Relativity",
+        "Albert Einstein",
+        "Physics",
+        "Inertial Frames",
+        "Space-time",
+        "Scientific Theory",
+        "Modern Physics"
+      ],
+      "original_word_count": 111,
+      "summary_word_count": 153,
+      "compression_ratio": 0,
+      "_id": "sum_1794678523610_aodch",
+      "created_at": "2026-11-14T17:48:43.610Z"
+    },
+    {
+      "_id": "sum_sample_1",
+      "user_id": "user_demo_1",
+      "title": "Attention Is All You Need - Transformer Architecture",
+      "original_text": "The Transformer is the first sequence transduction model based entirely on self-attention, replacing recurrent and convolutional layers commonly used in encoder-decoder architectures. By dispensing with recurrence, Transformers allow for significantly more parallelization and achieve state-of-the-art translation quality after being trained for only twelve hours on eight P100 GPUs.",
+      "summary": "The Transformer replaces recurrent and convolutional architectures with multi-head self-attention mechanisms, enabling unprecedented parallel training and scaling. Key components include scaled dot-product attention, positional encodings for sequence order, and stacked encoder-decoder blocks.",
+      "summary_type": "pdf",
+      "summary_length": "medium",
+      "summary_style": "executive",
+      "key_points": [
+        "Eliminates recurrence and convolutions in favor of self-attention",
+        "Scales dot-product attention across multiple representation subspaces",
+        "Drastically reduces training time while setting SOTA benchmark results",
+        "Introduces sine and cosine positional encodings to preserve token sequence"
+      ],
+      "keywords": [
+        "Transformer",
+        "Self-Attention",
+        "Neural Networks",
+        "Parallelization",
+        "NLP"
+      ],
+      "original_word_count": 520,
+      "summary_word_count": 54,
+      "compression_ratio": 89,
+      "filename": "attention_paper.pdf",
+      "page_count": 15,
+      "created_at": "2026-11-12T17:20:36.678Z"
+    },
+    {
+      "_id": "sum_sample_2",
+      "user_id": "user_demo_1",
+      "title": "Quantum Computing Fundamentals & Superposition",
+      "original_text": "Quantum computing leverages quantum mechanical phenomena such as superposition and entanglement to perform complex calculations exponentially faster than classical computers for specific problem classes. Qubits can exist simultaneously in multiple states until measured.",
+      "summary": "Quantum computers use quantum bits (qubits) capable of superposition and entanglement, enabling computational speedups for optimization, cryptography, and materials simulation. Error correction remains the primary engineering hurdle.",
+      "summary_type": "article",
+      "summary_length": "short",
+      "summary_style": "bullet_points",
+      "key_points": [
+        "Qubits harness superposition to exist in combinations of |0⟩ and |1⟩",
+        "Quantum entanglement links particle states regardless of spatial distance",
+        "Fault-tolerant quantum error correction is essential for practical quantum utility"
+      ],
+      "keywords": [
+        "Quantum",
+        "Qubits",
+        "Superposition",
+        "Entanglement",
+        "Cryptography"
+      ],
+      "original_word_count": 380,
+      "summary_word_count": 42,
+      "compression_ratio": 88,
+      "source_url": "https://nature.com/articles/quantum-computing-breakthrough",
+      "created_at": "2026-11-10T17:20:36.678Z"
+    },
+    {
+      "_id": "sum_sample_3",
+      "user_id": "user_demo_1",
+      "title": "CRISPR Gene Editing Principles and Applications",
+      "original_text": "CRISPR-Cas9 functions as a molecular pair of scissors guided by RNA to find and cleave specific DNA sequences in genomes. This enables targeted gene knockouts, precise insertion of therapeutic sequences, and regulation of gene expression.",
+      "summary": "CRISPR-Cas9 allows targeted genomic alterations by pairing Cas9 endonuclease with a programmable single-guide RNA (sgRNA). It has revolutionized medical therapeutics, agricultural resilience, and synthetic biology.",
+      "summary_type": "text",
+      "summary_length": "detailed",
+      "summary_style": "academic",
+      "key_points": [
+        "Single-guide RNA directs Cas9 endonuclease to target DNA protospacer",
+        "Double-strand breaks activate non-homologous end joining or homology-directed repair",
+        "Clinical trials targeting sickle-cell disease demonstrate therapeutic efficacy"
+      ],
+      "keywords": [
+        "CRISPR",
+        "Cas9",
+        "Genomics",
+        "sgRNA",
+        "Gene Therapy"
+      ],
+      "original_word_count": 440,
+      "summary_word_count": 46,
+      "compression_ratio": 89,
+      "created_at": "2026-11-08T17:20:36.678Z"
+    }
+  ],
+  "documents": [
+    {
+      "user_id": "user_demo_1",
+      "filename": "sample_doc_3zDOZY.txt",
+      "file_type": "text/plain",
+      "file_size": 370,
+      "page_count": 1,
+      "processing_status": "completed",
+      "summary_id": "sum_1794679019071_ib5tt",
+      "_id": "doc_1794679019072_3xmzz",
+      "created_at": "2026-11-14T17:56:59.072Z"
+    },
+    {
+      "_id": "doc_sample_1",
+      "user_id": "user_demo_1",
+      "filename": "attention_paper.pdf",
+      "file_type": "application/pdf",
+      "file_size": 1048576,
+      "page_count": 15,
+      "processing_status": "completed",
+      "summary_id": "sum_sample_1",
+      "created_at": "2026-11-12T17:20:36.678Z"
+    }
+  ],
+  "flashcards": [
+    {
+      "_id": "deck_sample_1",
+      "user_id": "user_demo_1",
+      "title": "Machine Learning & Transformer Architecture",
+      "source_title": "Attention Is All You Need",
+      "cards": [
+        {
+          "id": "card_1",
+          "question": "What is the primary advantage of self-attention over recurrent architectures (RNNs)?",
+          "answer": "Self-attention computes dependencies between all tokens simultaneously, allowing complete parallel training and resolving vanishing gradient over long distances.",
+          "category": "Architecture",
+          "mastered": true
+        },
+        {
+          "id": "card_2",
+          "question": "Why are positional encodings required in Transformer models?",
+          "answer": "Since the self-attention mechanism contains no recurrence or convolutions, it has no inherent notion of sequence order; positional encodings inject token positions.",
+          "category": "Mechanics",
+          "mastered": false
+        },
+        {
+          "id": "card_3",
+          "question": "What is the scaling factor in Scaled Dot-Product Attention, and why is it used?",
+          "answer": "Dividing by sqrt(d_k) prevents dot products from growing excessively large for large dimensions, which would push softmax gradients into vanishing regions.",
+          "category": "Math",
+          "mastered": true
+        }
+      ],
+      "created_at": "2026-11-12T17:20:36.678Z"
+    }
+  ],
+  "quizzes": [
+    {
+      "_id": "quiz_sample_1",
+      "user_id": "user_demo_1",
+      "title": "Transformer Architecture Mastery Check",
+      "source_title": "Attention Is All You Need",
+      "questions": [
+        {
+          "id": "q_1",
+          "question": "Which component enables Transformers to process input sequence tokens in parallel rather than sequentially?",
+          "options": [
+            "Recurrent Hidden States",
+            "Multi-Head Self-Attention",
+            "Convolutional Kernels",
+            "Beam Search Decoding"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Multi-head self-attention enables token-to-token comparison in a single matrix multiplication across the entire context window without step-by-step looping."
+        },
+        {
+          "id": "q_2",
+          "question": "Why do Transformers add sinusoidal positional encodings to the input embeddings?",
+          "options": [
+            "To increase vocabulary capacity",
+            "To inject sequential order information that self-attention inherently lacks",
+            "To compress high-dimensional vectors",
+            "To prevent overfitting on training data"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Attention by itself is permutation-invariant. Positional encodings provide distinct wavelength signals so the network knows relative and absolute token positioning."
+        },
+        {
+          "id": "q_3",
+          "question": "In Scaled Dot-Product Attention, what is the purpose of dividing the dot product of Q and K by the square root of the key dimension (sqrt(d_k))?",
+          "options": [
+            "To normalize token length",
+            "To prevent softmax gradients from becoming extremely small due to large dot products",
+            "To convert logits into probabilistic priors",
+            "To accelerate backward propagation by half"
+          ],
+          "correctAnswer": 1,
+          "explanation": "For large values of d_k, dot products grow large in magnitude, pushing the softmax function into regions with extremely small gradients. Scaling counteracts this effect."
+        }
+      ],
+      "results": [
+        {
+          "score": 3,
+          "total": 3,
+          "completedAt": "2026-11-13T17:20:36.678Z"
+        }
+      ],
+      "created_at": "2026-11-12T17:20:36.678Z"
+    }
+  ]
+}
